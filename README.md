@@ -87,7 +87,5 @@ if msg_date < BOT_START_TIME:
 - Telegram Bot API
 - regex-based filtering
 - async message handling
-
-безопасная модификация текста с сохранением entities
-
-проектирование защитных механизмов для продакшена
+- безопасная модификация текста с сохранением entities
+- проектирование защитных механизмов для продакшена
